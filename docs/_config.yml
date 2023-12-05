@@ -1,4 +1,4 @@
 url: "https://glockeryoung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Blog" # the name of your site, e.g. ACME Corp.
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
